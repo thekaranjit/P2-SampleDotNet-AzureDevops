@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/karanjitsingh/Desktop/Cloud & Devops/Azure Devops/Projects/P2-SampleDotNet-AzureDevops/P2-SampleDotNet-AzureDevops.csproj",
+      "projectUniqueName": "/Users/karanjitsingh/Desktop/Cloud & Devops/Azure Devops/Devops Projects/P2-SampleDotNet-AzureDevops/P2-SampleDotNet-AzureDevops.csproj",
       "projectName": "P2-SampleDotNet-AzureDevops",
-      "projectPath": "/Users/karanjitsingh/Desktop/Cloud & Devops/Azure Devops/Projects/P2-SampleDotNet-AzureDevops/P2-SampleDotNet-AzureDevops.csproj",
+      "projectPath": "/Users/karanjitsingh/Desktop/Cloud & Devops/Azure Devops/Devops Projects/P2-SampleDotNet-AzureDevops/P2-SampleDotNet-AzureDevops.csproj",
       "packagesPath": "/Users/karanjitsingh/.nuget/packages/",
-      "outputPath": "/Users/karanjitsingh/Desktop/Cloud & Devops/Azure Devops/Projects/P2-SampleDotNet-AzureDevops/obj/",
+      "outputPath": "/Users/karanjitsingh/Desktop/Cloud & Devops/Azure Devops/Devops Projects/P2-SampleDotNet-AzureDevops/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/karanjitsingh/.nuget/NuGet/NuGet.Config"
